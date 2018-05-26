@@ -1,0 +1,6 @@
+
+Este projeto básico visa apenas testar as funcionalidades básicas de um projeto no GitHub.
+
+Para isso vou utilizar alguns exemplos de Powershell para versionar alguns scripts.
+
+Hellow World V2
